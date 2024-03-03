@@ -24,7 +24,7 @@ $ conda activate javarag
 $ pip install -r requirements.txt
 ```
 
-### step 2 Create index
+### step 2 Clone this repository
 
 ```
 Clone the repo.
