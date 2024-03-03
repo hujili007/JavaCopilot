@@ -4,8 +4,11 @@ This is the official codebase for **JavaCopilot**.
 
 ## Introduction
 
-JavaCopilot is an RAG framework-based learning assistant for Java programming, utilizing textbooks, syllabi, and common Java questions as document corpus. It is entirely developed on open-source local models, with the embedded model being [m3e-base] (https://huggingface.co/moka-ai/m3e-base) and the large model being [Qwen-7B-Chat] (https://huggingface.co/Qwen/Qwen-7B-Chat), aiming to provide Java learning assistance to teachers and students alike.
+JavaCopilot is an RAG framework-based learning assistant for Java programming, utilizing textbooks, syllabi, and common Java questions as document corpus. It is entirely developed on open-source local models, with the embedded model being [m3e-base] (https://huggingface.co/moka-ai/m3e-base) and the large model being [Qwen-7B-Chat] (https://huggingface.co/Qwen/Qwen-7B-Chat), aiming to provide Java learning assistance to teachers and students alike.Here is an example.
 
+<p align="center">
+  <img src="https://github.com/hujili007/JavaCopilot/blob/dafdaa70f67b1eebc2e01a3fc042b8c5e25e5298/javacopilot.jpeg" alt="GastroBot architecture diagram" border="0" width=70%>
+</p>
 
 ## Getting Started
 
