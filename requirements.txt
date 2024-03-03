@@ -1,0 +1,6 @@
+llama-index==0.8.62
+transformers_stream_generator
+einops
+accelerate
+streamlit==1.30.0
+
