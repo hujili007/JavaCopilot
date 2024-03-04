@@ -12,9 +12,17 @@ JavaCopilot is an RAG framework-based learning assistant for Java programming, u
 
 ## Getting Started
 
-### step 1 Installation
+### step 1 Clone this repository
 
-Set up conda environment and clone the github repo
+```
+Clone the repo.
+$ git clone https://github.com/hujili007/JavaCopilot.git
+$ cd JavaCopilot
+```
+
+### step 2 Installation
+
+Set up conda environment
 
 ```
 # create a new environment
@@ -22,14 +30,6 @@ $ conda create --name javarag python=3.10.13 -y
 $ conda activate javarag
 # install requirements
 $ pip install -r requirements.txt
-```
-
-### step 2 Clone this repository
-
-```
-Clone the repo.
-$ git clone https://github.com/hujili007/JavaCopilot.git
-$ cd JavaCopilot
 ```
 
 ### step 3 Run app.py
